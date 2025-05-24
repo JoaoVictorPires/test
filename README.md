@@ -10,7 +10,6 @@ Aplicativo Flutter para cadastro e visualização de pontos de interesse, com pe
 - **Geolocator**: Obtenção da localização do dispositivo
 - **Sqflite**: Persistência de dados local (SQLite)
 - **Path**: Manipulação de caminhos de arquivos
-- **Cupertino Icons**: Ícones para iOS
 
 ## Estrutura de Pastas
 
